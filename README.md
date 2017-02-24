@@ -18,7 +18,7 @@
 
 ### 6. Final Guidance for Korean Seasonal Prediction
 
-##
+## 
 ## Rain
 
 ### 1. Past MME predictions
