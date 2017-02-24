@@ -3,7 +3,7 @@
 ## Temperature
 
 ### 1. Past MME predictions
-![Image](src)
+![Image](fig_fcst_temp/1_stat.png)
 
 ### 2. Reliable Ens.
 
