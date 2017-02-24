@@ -9,6 +9,7 @@ set mon = MAR
 
 sed "s/YEAR/$year/g" README.org > imsi
 sed "s/MON/$mon/g" imsi > README.md
+/bin/rm -f imsi
 
 git pull https://github.com/yyalexlee/KOSPRET.git master
 

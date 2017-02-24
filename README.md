@@ -5,7 +5,7 @@
 ### 1. Past MME predictions
 ![Image](fig_fcst_temp/1_stat.png)
 
-### 2. Reliable Ens.
+### 2. Info. from individula models
 ![Image](fig_fcst_temp/2_stat_ens.png)
 
 ### 3. Info. from ENSO
@@ -30,7 +30,7 @@
 ### 1. Past MME predictions
 ![Image](fig_fcst_rain/1_stat.png)
 
-### 2. Reliable Ens.
+### 2. Info. from individula models
 ![Image](fig_fcst_rain/2_stat_ens.png)
 
 ### 3. Info. from ENSO
