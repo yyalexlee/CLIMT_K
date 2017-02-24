@@ -1,11 +1,11 @@
 #/bin/csh
 
 set year = 2017
-set mon = March
+set mon = MAR
 
 
-cp /home/yyalee/KOSPRET/fig/$mon/$year/Tavg/*png ./fig_fcst_temp
-cp /home/yyalee/KOSPRET/fig/$mon/$year/Rain/*png ./fig_fcst_rain
+/bin/cp -rf /home/yyalee/KOSPRET/fig/$mon/$year/Tavg/*png ./fig_fcst_temp
+/bin/cp -rf /home/yyalee/KOSPRET/fig/$mon/$year/Rain/*png ./fig_fcst_rain
 
 sed "s/YEAR/$year/g" README.org > imsi
 sed "s/MON/$mon/g" imsi > README.md
