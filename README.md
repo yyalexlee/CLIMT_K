@@ -2,6 +2,9 @@
 
 ## Temperature
 
+### <Final Guidance for Korean Seasonal Prediction>
+![Image](fig_fcst_temp/7_fcst_guidance.png)
+
 ### 1. Past MME predictions
 ![Image](fig_fcst_temp/1_stat.png)
 
@@ -21,11 +24,12 @@
 ### 5. Large Scale Ciruclation based DSP tailoring
 ![Image](fig_fcst_temp/6_tailored_forecast.png)
 
-### 6. Final Guidance for Korean Seasonal Prediction
-![Image](fig_fcst_temp/7_fcst_guidance.png)
 
 ## 
 ## Rain
+
+### <Final Guidance for Korean Seasonal Prediction>
+![Image](fig_fcst_rain/7_fcst_guidance.png)
 
 ### 1. Past MME predictions
 ![Image](fig_fcst_rain/1_stat.png)
@@ -46,7 +50,5 @@
 ### 5. Large Scale Ciruclation based DSP tailoring
 ![Image](fig_fcst_rain/6_tailored_forecast.png)
 
-### 6. Final Guidance for Korean Seasonal Prediction
-![Image](fig_fcst_rain/7_fcst_guidance.png)
 
 
