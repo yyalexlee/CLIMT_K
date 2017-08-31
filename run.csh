@@ -1,7 +1,7 @@
 #/bin/csh
 
 set year = 2017
-set mon = APR
+set mon = SEP
 
 
 /bin/cp -rf /home/yyalee/KOSPRET/fig/$mon/$year/Tavg/*png ./fig_fcst_temp
