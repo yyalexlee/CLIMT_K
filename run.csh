@@ -11,7 +11,7 @@ sed "s/YEAR/$year/g" README.org > imsi
 sed "s/MON/$mon/g" imsi > README.md
 /bin/rm -f imsi
 
-git pull https://github.com/yyalexlee/CLiMT_K.git master
+git pull https://github.com/yyalexlee/CLIMT_K.git master
 
 git init
 git add .
