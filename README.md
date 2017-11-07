@@ -21,7 +21,7 @@
 ### 4. Connection to Cryosphere 
 ![Image](fig_fcst_temp/5_leadlag_cor_Cryo.png)
 
-### 5. Large Scale Ciruclation based DSP tailoring
+### 5. Past Large-scale Ciruclation Pattern based DSP tailoring
 ![Image](fig_fcst_temp/6_tailored_forecast.png)
 
 
@@ -47,7 +47,7 @@
 ### 4. Connection to Cryosphere 
 ![Image](fig_fcst_rain/5_leadlag_cor_Cryo.png)
 
-### 5. Large Scale Ciruclation based DSP tailoring
+### 5. Past Large-scale Ciruclation Pattern based DSP tailoring
 ![Image](fig_fcst_rain/6_tailored_forecast.png)
 
 
