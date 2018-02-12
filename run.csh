@@ -1,7 +1,7 @@
 #/bin/csh
 
 set year = 2018
-set mon = FEB
+set mon = MAR
 
 
 /bin/cp -rf /home/yyalee/CLIMT_K/fig/$mon/$year/Tavg/*png ./fig_fcst_temp
